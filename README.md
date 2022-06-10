@@ -6,7 +6,7 @@
 
 ## Setting Up Development Server
 
-Please follow the development server setup procedure [here](https://github.com/akankshsinhaa/https://github.com/akankshsinhaa/lms_python_networking_cbse_12/Setup.md). Currently, the server can be installed using pip install.
+Please follow the development server setup procedure [here](https://github.com/akankshsinhaa/lms_python_networking_cbse_12/blob/main/Setup.md). Currently, the server can be installed using pip install.
 
 ## Notes
 
